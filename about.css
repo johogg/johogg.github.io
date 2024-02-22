@@ -1,0 +1,16 @@
+*{
+    margin: auto;
+    padding: 0;
+    box-sizing: border-box;
+    border: solid #bea060;
+    text-decoration: solid;
+    outline: none;
+    list-style-type: square;
+    font-family: sans-serif;
+    text-align: left;
+    background-color: whitesmoke;
+    background: transparent;
+    text-transform: none;
+    background: #ffe5e5;
+
+}
