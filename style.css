@@ -9,7 +9,7 @@
   font-family: sans-serif;
 }
 ::selection {
-  color: red;
+  color: black;
   background-color: #bea060;
 }
 header {
@@ -21,9 +21,6 @@ header {
 .header-left-side {
   color: white;
   padding: 0 0 0 90px;
-}
-.links {
-  width: 100%;
 }
 .header-left-side h1 {
   color: #bea060;
@@ -57,7 +54,7 @@ button {
   padding: 20px 10px;
   border: 2px solid #bea060;
   background: transparent;
-  width: 47%;
+  width: 40%;
   color: purple;
   margin-right: 15px;
   font-family: sans-serif;
@@ -82,7 +79,7 @@ button:hover {
 }
 .header-right-side img {
   width: 670px;
-  height: 689px;
+  width: 670px;
 }
 footer {
   padding: 1rem;
